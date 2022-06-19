@@ -27,3 +27,7 @@ def test():
 
 a=10
 demo_function()
+
+
+def new_func():
+    return 0
