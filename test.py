@@ -16,9 +16,11 @@ test_list =[1,3,3,5]
 def demo_function():
     print("im in demo")
 print("heello")
-print("2nd line")
 
 test()
+print("2nd line")
+
+
 
 def test():
     pass
